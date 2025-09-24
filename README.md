@@ -43,5 +43,8 @@ Kickstarter hosts diverse project types with varying outcomes, yet it is unclear
 ## References
 - Kickstarter Help. (2017). *How can I cancel my project?* Kickstarter. https://help.kickstarter.com/hc/en-us/articles/115005138393-How-can-I-cancel-my-project  
 - Kickstarter Help. (2019). *What can Kickstarter do when a creator does not fulfill their project rewards?* Kickstarter. https://help.kickstarter.com/hc/en-us/articles/360039530654-What-can-Kickstarter-do-when-a-creator-does-not-fulfill-their-project-rewards1  
-- Kickstarter Help. (n.d.). *Why is funding all-or-nothing?* Kickstarter. https://help.kickstarter.com/hc/en-us/articles/115005047893-Why-is-funding-all-or-nothing  
+- Kickstarter Help. (n.d.). *Why is funding all-or-nothing?* Kickstarter. https://help.kickstarter.com/hc/en-us/articles/115005047893-Why-is-funding-all-or-nothing
+- Pebble Technology. (2012, April 11). Pebble: E-paper watch for iPhone and Android. Kickstarter. https://www.kickstarter.com/projects/getpebble/pebble-e-paper-watch-for-iphone-and-android
+- Ludvik, E. (2015, February 17). The Pebble watch success formula: Crowds. Crowdsourcing Week. https://crowdsourcingweek.com/blog/the-pebble-watch-success-formula-crowds/
+- Pebble Technology. (2015, February 24). Pebble Time – Awesome smartwatch, no compromises. Kickstarter. https://www.kickstarter.com/projects/getpebble/pebble-time-awesome-smartwatch-no-compromises
 - Esri. (2018, October 15). *Performing principal component analysis (PCA) to determine weights for index indicators.* ArcGIS Blog. https://www.esri.com/arcgis-blog/products/api-python/analytics/performing-principal-component-analysis-pca-to-determine-weights-for-index-indicators#:~:text=Use%20PCA%20to%20determine%20weights,contributes%20equally%20to%20the%20analysis
